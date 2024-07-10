@@ -5,6 +5,7 @@ Soy una desarrolladora full stack en formación con un fuerte interés en tecnol
 🚀 **Tecnologías:** JavaScript, React, Express, Node.js, PostgreSQL, Redux, Tailwind CSS, CSS.
 
 💼 **Proyecto Destacado:** Desarrollé una plataforma ecommerce de plantillas de diseño frontend como parte de mi experiencia en el bootcamp de Henry.
+[Ecommerce Project](pf-front-end-ecommerce-vega.vercel.app): Una plataforma de comercio electrónico completa, dirigido ala venta de plantillas o diseños frontend con funcionalidades de carrito de compras, autenticación de usuarios, y gestión de productos.
 
 🎓 **Formación Académica:** Actualmente curso el Bootcamp de Henry, y anteriormente estudié Tecnología en Análisis y Desarrollo de Web.
 
