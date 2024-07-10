@@ -1,4 +1,6 @@
-¡Hola! Soy Alisson Martínez, una desarrolladora fullstack con enfoque principal en el frontend. Mis habilidades incluyen Node.js, Express, React, Redux, PostgreSQL y Tailwind CSS. Me apasiona crear proyectos web que no solo sean funcionales, sino también estéticamente atractivos.
+
+# ¡Hola! Soy Alisson Martínez.
+Una desarrolladora fullstack con enfoque principal en el frontend. Mis habilidades incluyen Node.js, Express, React, Redux, PostgreSQL y Tailwind CSS. Me apasiona crear proyectos web que no solo sean funcionales, sino también estéticamente atractivos.
 
 Soy una profesional curiosa y autodidacta, con una sólida capacidad para resolver problemas y un compromiso constante con el aprendizaje continuo.
 
