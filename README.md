@@ -17,4 +17,5 @@ Soy una desarrolladora full stack en formación con un fuerte interés en tecnol
 
 ---
 
-[¡Conéctate conmigo en LinkedIn!](www.linkedin.com/in/alisson-martinez-29743227a)
+[¡Conéctate conmigo en LinkedIn!](www.linkedin.com/in/alisson-martinez-29743227a) 
+contactame por email: alissonmartin2410@gmail.com
