@@ -1,9 +1,15 @@
+# ¡Hola! Soy Alisson Martínez 👋
 
-# ¡Hola! Soy Alisson Martínez.
-Una desarrolladora fullstack con enfoque principal en el frontend. Mis habilidades incluyen Node.js, Express, React, Redux, PostgreSQL y Tailwind CSS. Me apasiona crear proyectos web que no solo sean funcionales, sino también estéticamente atractivos.
+Soy una desarrolladora full stack en formación con un fuerte interés en tecnologías web modernas. Actualmente estoy cursando el Bootcamp de Henry, donde estoy aprendiendo y trabajando en proyectos prácticos utilizando:
 
-Soy una profesional curiosa y autodidacta, con una sólida capacidad para resolver problemas y un compromiso constante con el aprendizaje continuo.
+- **Lenguajes y Tecnologías:** JavaScript, React, Express, Node.js, PostgreSQL, Redux, Tailwind CSS, CSS.
+- **Proyecto Destacado:** He desarrollado una plataforma ecommerce de plantillas de diseño frontend como parte de mi experiencia en el bootcamp de Henry.
+- **Formación Académica:** Actualmente curso el Bootcamp de Henry, y anteriormente estudié Tecnología en Análisis y Desarrollo de Web.
+- **Metas Profesionales:** Mi objetivo es entrar en el mundo laboral como desarrolladora web full stack, contribuir en proyectos significativos y seguir aprendiendo y creciendo profesionalmente.
+- **Intereses y Futuro:** Me apasiona expandir mis conocimientos en diferentes tecnologías y colaborar en proyectos que desafíen mis habilidades y me permitan seguir evolucionando como profesional.
 
-Estoy entusiasmada por colaborar en proyectos desafiantes y creativos que me permitan expandir mis habilidades y conocimientos. Si tienes alguna idea o proyecto en mente, no dudes en contactarme por correo electrónico a 📧 alissonmartin2410@gmail.com. También puedes explorar mi perfil en GitHub en https://github.com/AOrtegaMartinez.
+¡Estoy emocionada por conectar y colaborar con la comunidad de GitHub!
 
-Espero tener la oportunidad de trabajar juntos y contribuir al éxito de tus iniciativas web.
+---
+
+[¡Conéctate conmigo en LinkedIn!](https://www.linkedin.com/in/alissonmartinez)
