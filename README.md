@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alisson Martínez 👋
 
-Soy una desarrolladora full stack con orientación al frontend.
+Soy una desarrolladora full stack con orientación al frontend. Me interesa crear proyectos web que combinen funcionalidad, diseño y una experiencia de usuario atractiva.
 
 🚀 **Tecnologías:** JavaScript, React, Express, Node.js, PostgreSQL, Redux, Tailwind CSS, CSS.
 
